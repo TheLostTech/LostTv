@@ -1,0 +1,16 @@
+{
+  "licenses": [
+    {
+      "name": "Ale (proprietario)",
+      "hash": "571978ba956c90fa5b586192532a63e8bfc18902e87369f57b65ca147cb907a8",
+      "expires": null,
+      "active": true
+    },
+    {
+      "name": "Amico",
+      "hash": "2697ca630c74140e5cca579c39c025f595e962dc0c03865843105b1b615cd5e0",
+      "expires": "2026-12-08",
+      "active": true
+    }
+  ]
+}
